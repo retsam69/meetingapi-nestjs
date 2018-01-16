@@ -78,3 +78,4 @@ I am on a mission to provide an architecture to create truly flexible, scalable 
 <a href="https://opencollective.com/nest/backer/28/website" target="_blank"><img src="https://opencollective.com/nest/backer/28/avatar.svg"></a>
 <a href="https://opencollective.com/nest/backer/29/website" target="_blank"><img src="https://opencollective.com/nest/backer/29/avatar.svg"></a>
 
+"# meetingapi-nestjs" 
